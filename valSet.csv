@@ -1,94 +1,94 @@
 image_name,label_id,name
-alderman9.jpg,1,Alderman Library
-alderman2.jpg,1,Alderman Library
-alderman12.jpg,1,Alderman Library
-alderman21.jpg,1,Alderman Library
-alumniHall9.jpg,2,Alumni Hall
-alumniHall6.jpg,2,Alumni Hall
-alumniHall12.jpg,2,Alumni Hall
-IMG_2301.jpeg,3,Aquatic & Fitness Center
-IMG_2328.jpeg,3,Aquatic & Fitness Center
-IMG_2330.jpeg,3,Aquatic & Fitness Center
-IMG_2329.jpeg,3,Aquatic & Fitness Center
-IMG_2348.jpeg,3,Aquatic & Fitness Center
-IMG_1975.jpeg,4,Chemical Engineering Building
-IMG_2014.jpeg,4,Chemical Engineering Building
-IMG_1982.jpeg,4,Chemical Engineering Building
-IMG_1986.jpeg,4,Chemical Engineering Building
-IMG_2013.jpeg,4,Chemical Engineering Building
-IMG_2456.jpeg,5,John Paul Jones Arena
-IMG_2388.jpeg,5,John Paul Jones Arena
-IMG_2455.jpeg,5,John Paul Jones Arena
-IMG_2461.jpeg,5,John Paul Jones Arena
-IMG_2412.jpeg,5,John Paul Jones Arena
-IMG_2487.jpeg,6,Law School Building
-IMG_2474.jpeg,6,Law School Building
-IMG_2505.jpeg,6,Law School Building
-IMG_2517.jpeg,6,Law School Building
-IMG_2519.jpeg,6,Law School Building
-IMG_2515.jpeg,6,Law School Building
-IMG_2040.jpeg,7,Mechanical Building
-IMG_2073.jpeg,7,Mechanical Building
-IMG_2063.jpeg,7,Mechanical Building
-IMG_2059.jpeg,7,Mechanical Building
-IMG_2053.jpeg,7,Mechanical Building
-memorialGym17.jpg,8,Memorial Gym
-memorialGym14.jpg,8,Memorial Gym
-memorialGym5.jpg,8,Memorial Gym
-monroe22.jpg,9,Monroe Hall
-monroe9.jpg,9,Monroe Hall
-monroe14.jpg,9,Monroe Hall
-monroe11.jpg,9,Monroe Hall
-newcomb15.jpg,10,Newcomb Hall
-newcomb9.jpg,10,Newcomb Hall
-newcomb17.jpg,10,Newcomb Hall
-newcomb16.jpg,10,Newcomb Hall
-northGroundsGym19.jpg,11,North Grounds Gym
-northGroundsGym1.jpg,11,North Grounds Gym
-northGroundsGym5.jpg,11,North Grounds Gym
-northGroundsGym21.jpg,11,North Grounds Gym
-oldCabell4.jpg,12,Old Cabell Hall
-oldCabell12.jpg,12,Old Cabell Hall
-oldCabell22.jpg,12,Old Cabell Hall
-oldCabell28.jpg,12,Old Cabell Hall
-oldCabell1.jpg,12,Old Cabell Hall
-IMG_2112.jpeg,13,Olsson Hall
-IMG_2132.jpeg,13,Olsson Hall
-IMG_2117.jpeg,13,Olsson Hall
-IMG_2115.jpeg,13,Olsson Hall
-IMG_2100.jpeg,13,Olsson Hall
-IMG_2219.jpeg,14,Physics Building
-IMG_2213.jpeg,14,Physics Building
-IMG_2181.jpeg,14,Physics Building
-IMG_2218.jpeg,14,Physics Building
-IMG_2212.jpeg,14,Physics Building
-IMG_2156.jpeg,15,Rice Hall
-IMG_2157.jpeg,15,Rice Hall
-IMG_2165.jpeg,15,Rice Hall
-IMG_2143.jpeg,15,Rice Hall
-IMG_2173.jpeg,15,Rice Hall
-IMG_2149.jpeg,15,Rice Hall
-rotunda22.jpg,16,The Rotunda
-rotunda4.jpg,16,The Rotunda
-rotunda27.jpg,16,The Rotunda
-rotunda28.jpg,16,The Rotunda
-rotunda26.jpg,16,The Rotunda
-scottStadium9.jpg,17,Scott Stadium
-scottStadium4.jpg,17,Scott Stadium
-scottStadium3.jpg,17,Scott Stadium
-scottStadium17.jpg,17,Scott Stadium
-slaughter3.jpg,18,Slaughter Recreation
-slaughter14.jpg,18,Slaughter Recreation
-slaughter9.jpg,18,Slaughter Recreation
-slaughter17.jpg,18,Slaughter Recreation
-slaughter8.jpg,18,Slaughter Recreation
-IMG_1947.jpeg,19,Thornton Hall 
-IMG_1968.jpeg,19,Thornton Hall 
-IMG_1946.jpeg,19,Thornton Hall 
-IMG_1952.jpeg,19,Thornton Hall 
-IMG_1959.jpeg,19,Thornton Hall 
-IMG_2282.jpeg,20,Wilsdorf Hall
-IMG_2248.jpeg,20,Wilsdorf Hall
-IMG_2247.jpeg,20,Wilsdorf Hall
-IMG_2285.jpeg,20,Wilsdorf Hall
-IMG_2253.jpeg,20,Wilsdorf Hall
+alderman9.jpg,0,Alderman Library
+alderman2.jpg,0,Alderman Library
+alderman12.jpg,0,Alderman Library
+alderman21.jpg,0,Alderman Library
+alumniHall9.jpg,1,Alumni Hall
+alumniHall6.jpg,1,Alumni Hall
+alumniHall12.jpg,1,Alumni Hall
+IMG_2301.jpeg,2,Aquatic & Fitness Center
+IMG_2328.jpeg,2,Aquatic & Fitness Center
+IMG_2330.jpeg,2,Aquatic & Fitness Center
+IMG_2329.jpeg,2,Aquatic & Fitness Center
+IMG_2348.jpeg,2,Aquatic & Fitness Center
+IMG_1975.jpeg,3,Chemical Engineering Building
+IMG_2014.jpeg,3,Chemical Engineering Building
+IMG_1982.jpeg,3,Chemical Engineering Building
+IMG_1986.jpeg,3,Chemical Engineering Building
+IMG_2013.jpeg,3,Chemical Engineering Building
+IMG_2456.jpeg,4,John Paul Jones Arena
+IMG_2388.jpeg,4,John Paul Jones Arena
+IMG_2455.jpeg,4,John Paul Jones Arena
+IMG_2461.jpeg,4,John Paul Jones Arena
+IMG_2412.jpeg,4,John Paul Jones Arena
+IMG_2487.jpeg,5,Law School Building
+IMG_2474.jpeg,5,Law School Building
+IMG_2505.jpeg,5,Law School Building
+IMG_2517.jpeg,5,Law School Building
+IMG_2519.jpeg,5,Law School Building
+IMG_2515.jpeg,5,Law School Building
+IMG_2040.jpeg,6,Mechanical Building
+IMG_2073.jpeg,6,Mechanical Building
+IMG_2063.jpeg,6,Mechanical Building
+IMG_2059.jpeg,6,Mechanical Building
+IMG_2053.jpeg,6,Mechanical Building
+memorialGym17.jpg,7,Memorial Gym
+memorialGym14.jpg,7,Memorial Gym
+memorialGym5.jpg,7,Memorial Gym
+monroe22.jpg,8,Monroe Hall
+monroe9.jpg,8,Monroe Hall
+monroe14.jpg,8,Monroe Hall
+monroe11.jpg,8,Monroe Hall
+newcomb15.jpg,9,Newcomb Hall
+newcomb9.jpg,9,Newcomb Hall
+newcomb17.jpg,9,Newcomb Hall
+newcomb16.jpg,9,Newcomb Hall
+northGroundsGym19.jpg,10,North Grounds Gym
+northGroundsGym1.jpg,10,North Grounds Gym
+northGroundsGym5.jpg,10,North Grounds Gym
+northGroundsGym21.jpg,10,North Grounds Gym
+oldCabell4.jpg,11,Old Cabell Hall
+oldCabell12.jpg,11,Old Cabell Hall
+oldCabell22.jpg,11,Old Cabell Hall
+oldCabell28.jpg,11,Old Cabell Hall
+oldCabell1.jpg,11,Old Cabell Hall
+IMG_2112.jpeg,12,Olsson Hall
+IMG_2132.jpeg,12,Olsson Hall
+IMG_2117.jpeg,12,Olsson Hall
+IMG_2115.jpeg,12,Olsson Hall
+IMG_2100.jpeg,12,Olsson Hall
+IMG_2219.jpeg,13,Physics Building
+IMG_2213.jpeg,13,Physics Building
+IMG_2181.jpeg,13,Physics Building
+IMG_2218.jpeg,13,Physics Building
+IMG_2212.jpeg,13,Physics Building
+IMG_2156.jpeg,14,Rice Hall
+IMG_2157.jpeg,14,Rice Hall
+IMG_2165.jpeg,14,Rice Hall
+IMG_2143.jpeg,14,Rice Hall
+IMG_2173.jpeg,14,Rice Hall
+IMG_2149.jpeg,14,Rice Hall
+rotunda22.jpg,15,The Rotunda
+rotunda4.jpg,15,The Rotunda
+rotunda27.jpg,15,The Rotunda
+rotunda28.jpg,15,The Rotunda
+rotunda26.jpg,15,The Rotunda
+scottStadium9.jpg,16,Scott Stadium
+scottStadium4.jpg,16,Scott Stadium
+scottStadium3.jpg,16,Scott Stadium
+scottStadium17.jpg,16,Scott Stadium
+slaughter3.jpg,17,Slaughter Recreation
+slaughter14.jpg,17,Slaughter Recreation
+slaughter9.jpg,17,Slaughter Recreation
+slaughter17.jpg,17,Slaughter Recreation
+slaughter8.jpg,17,Slaughter Recreation
+IMG_1947.jpeg,18,Thornton Hall
+IMG_1968.jpeg,18,Thornton Hall
+IMG_1946.jpeg,18,Thornton Hall
+IMG_1952.jpeg,18,Thornton Hall
+IMG_1959.jpeg,18,Thornton Hall
+IMG_2282.jpeg,19,Wilsdorf Hall
+IMG_2248.jpeg,19,Wilsdorf Hall
+IMG_2247.jpeg,19,Wilsdorf Hall
+IMG_2285.jpeg,19,Wilsdorf Hall
+IMG_2253.jpeg,19,Wilsdorf Hall
