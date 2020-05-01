@@ -19,3 +19,11 @@ This folder contains the results from our experiments. This includes accuracy in
 
 ### Paper
 This folder contains our final paper
+
+## Authors
+
+* **Will Leeson** - *Initial work* - [Platapusbear](https://github.com/PlatapusBear)
+## Authors
+
+* **Carl Hildebrandt** - *Initial work* - [hildebrandt-carl](https://github.com/hildebrandt-carl)
+* **Soneya Hossain** - *Initial work* - [hossain-soneya](https://github.com/soneyahossain)
