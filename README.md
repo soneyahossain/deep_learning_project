@@ -22,5 +22,5 @@ This folder contains our final paper
 
 ## Authors
 
-* **Will Leeson** - *Initial work* - [Platapusbear](https://github.com/PlatapusBear)
+* **Will Leeson** - *Initial work* - [will-leeson](https://github.com/will-leeson)
 * **Soneya Hossain** - *Initial work* - [hossain-soneya](https://github.com/soneyahossain)
